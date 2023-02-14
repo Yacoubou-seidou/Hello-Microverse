@@ -73,7 +73,7 @@ Hello Microverse
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- Live Demo Link(https://yacoubou-seidou.github.io/Hello-Microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,7 +140,7 @@ Example:
 
 👤 **YacoubouSeidou**
 
-- GitHub: [@githubhandle](https://github.com/yacoubou-seidou)
+- GitHub: @githubhandle(https://github.com/yacoubou-seidou)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -156,8 +156,6 @@ Example:
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,11 +185,11 @@ I would like to thank all my coding partners from Microverse
 
 - **[How_many_times_before_finalizing_this_project]**
 
-  - [More_then_3_hours]
+  - More_then_3_hours
 
-- **[How_was_the_difficulty_?]**
+- **How*was_the_difficulty*?**
 
-  - [It_was_hard_to_follow_all_the_project_needs]
+  - It_was_hard_to_follow_all_the_project_needs
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
