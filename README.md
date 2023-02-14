@@ -1,11 +1,15 @@
 <a name="readme-top"></a>
 
 <div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
-  <h3><b>Hello Microverse README Template</b></h3>
+
+  <h3><b>Microverse README Template</b></h3>
 
 </div>
+
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -29,17 +33,33 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello_Microverse] <a name="about-project"></a>
+<!-- PROJECT DESCRIPTION -->
 
-Set up a Hello Microverse Project
+# 📖 [your_project_name] <a name="about-project"></a>
 
-**[your_project__name]** is Hello Microverse
+Hello Microverse
+
+**[your_project__name]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-Html and css are used in this project
+<details>
+  <summary>Html</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/html/">Html</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>CSS</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/css/">CSS</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
@@ -51,7 +71,9 @@ Html and css are used in this project
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yacoubou-seidou.github.io/Hello-Microverse/)
+> Add a link to your deployed project.
+
+- Live Demo Link(https://yacoubou-seidou.github.io/Hello-Microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -59,32 +81,56 @@ Html and css are used in this project
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-Learn Html and Css
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-npm run
+Installation of Git
+Installation of NPM
+A working browser
+Internet connection
+A code editor like Visual Studio Code
+Installation of Live Server plugging in Visual Studio Code
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-Cd my_folder
-git clone "repository link"
-or
-download the Zip folder
+cd my-folder
+git clone git@github.com:myaccount/my-project.git
 
 ### Install
 
 Install this project with:
 
+cd my-project
+npm install
+
 ### Usage
 
 To run the project, execute the following command:
-Use live server
-or
-Open it in a Browser
+
+Open with live server
+Open in Browser
+
+### Run tests
+
+To run tests, run the following command:
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,20 +138,58 @@ Open it in a Browser
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Yacoubou seidou**
+👤 **YacoubouSeidou**
 
-- GitHub: [@githubhandle](https://github.com/yacoubou-seidou)
+- GitHub: @githubhandle(https://github.com/yacoubou-seidou)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Display_hello_Microverse]**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- **[How_can_i_do_that?]**
+<!-- CONTRIBUTING -->
 
-  - [Just_with_html_and_css]
+## 🤝 Contributing <a name="contributing"></a>
 
-- **[Were_to_learn?]**
+Contributions, issues, and feature requests are welcome!
 
-  - [google_it_there_is_many_platform_were_you_can_learn_those_skills_for_free]
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+
+If you like this project give a start to the repository and follow my github accouunt
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank all my coding partners from Microverse
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[How_many_times_before_finalizing_this_project]**
+
+  - More_then_3_hours
+
+- **How*was_the_difficulty*?**
+
+  - It_was_hard_to_follow_all_the_project_needs
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
